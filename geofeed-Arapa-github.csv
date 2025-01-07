@@ -1,11 +1,18 @@
 # Arapa Telecomunicaciones Geofeed
 # This feed is encoded in RFC 8805 format.
-# Publication date: 2023-10-29
+# Publication date: 2025-01-07
 #
 # This data feed provides approximate geo locations for a subset of
-#Arapa Telecomunicaciones IP space, and the data included in this feed may be used only
+# Arapa Telecomunicaciones IP space, and the data included in this feed may be used only
 # for improving the accuracy of Geo:IP lookups 
 
-201.218.137.0/24,PE,PE-LIM,Lima,
-38.137.219.0/24,PE,PE-LIM,Lima,
-2803:a850::/32,PE,PE-LIM,Lima,
+201.234.117.0/24,PE,PE-LIM,Villa El Salvador,
+38.10.240.0/22,PE,PE-LIM,Villa El Salvador,
+38.10.240.0/24,PE,PE-LIM,Villa El Salvador,
+38.10.241.0/24,PE,PE-LIM,Villa El Salvador,
+38.10.242.0/24,PE,PE-LIM,Villa El Salvador,
+38.10.243.0/24,PE,PE-LIM,Villa El Salvador,
+209.45.20.0/24,PE,PE-LIM,Villa El Salvador,
+8.243.108.48/28,PE,PE-LIM,Villa El Salvador,
+8.243.113.16/29,PE,PE-LIM,Villa El Salvador,
+2803:a850::/32,PE,PE-LIM,Villa El Salvador,
